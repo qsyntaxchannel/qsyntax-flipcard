@@ -1,0 +1,16 @@
+{
+	"name": "QSyntax Flipcard",
+	"description": "QSyntax Flipcard is a visualization extension for Qlik Sense to display a flipcard that holds two master items.",
+	"icon": "extension",
+	"type": "visualization",
+	"version": "1.0.3",
+	"author": "André Sousa",
+	"homepage": "http://qsyntaxchannel.com/",
+	"keywords": "qlik-sense, visualization, flipcard",
+	"preview": "preview.png",
+	"license": "The MIT License (MIT)",
+	"repository": "https://github.com/qsyntaxchannel",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}
