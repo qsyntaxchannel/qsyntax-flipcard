@@ -7,9 +7,9 @@
 	"author": "André Sousa",
 	"homepage": "http://qsyntaxchannel.com/",
 	"keywords": "qlik-sense, visualization, flipcard",
-	"preview": "preview.png",
+	"preview": "preview.gif",
 	"license": "The MIT License (MIT)",
-	"repository": "https://github.com/qsyntaxchannel",
+	"repository": "https://github.com/qsyntaxchannel/qsyntax-flipcard",
 	"dependencies": {
 		"qlik-sense": ">=3.0.x"
 	}
